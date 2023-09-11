@@ -1,0 +1,11 @@
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\bin\Debug\TutorialProject.exe.config
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\bin\Debug\TutorialProject.exe
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\bin\Debug\TutorialProject.pdb
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.Properties.Resources.resources
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.exe
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.pdb
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.Names.resources
+C:\Users\Andrei\source\repos\TutorialProject\TutorialProject\obj\Debug\TutorialProject.MyNewForm.resources
